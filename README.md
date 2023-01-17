@@ -1,7 +1,7 @@
 # portifolio
 Projeto desenvolvido para mostrar visualmente meus trabalhos feitos.
 
-### Tecnologias utilizadas na aplicação:
+## Tecnologias utilizadas na aplicação:
 
 ####  - Microframework de desenvolvimento web Flask.
 ####  - SQLite3 (para desenvolvimento).
@@ -10,9 +10,10 @@ Projeto desenvolvido para mostrar visualmente meus trabalhos feitos.
 ####  - CSS 3.
 ####  - HTML 5.
 
-### Tecnologias utilizadas infraestrutura:
+## Tecnologias utilizadas infraestrutura:
 
 ####  - Docker.
 ####  - Linux.
 ####  - Google Cloud.
+####  - Nginx.
 
